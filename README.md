@@ -8,4 +8,5 @@ Every day I'll write down the topic, discussion, practice, and notes into the ha
 - Document the learning process as a portfolio.
 
 # Progress 1 / 30 Days
-- [x] Hari 1 - HTTP & REST API
+- [x] Hari 1 - setup basic Hapi.js server with dummy routes
+- [ ] Hari 2 - 
